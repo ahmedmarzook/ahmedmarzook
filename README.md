@@ -1,27 +1,48 @@
-<p align="center">
-  <a href="https://github.com/ahmedmarzook">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=858&text=Hello!%20I'm%20Ahmed%20Marzook" alt="Hello! I&#39;m Ahmed Marzook" />
-  </a>
-</p>
+اعملي ملف README.md احترافي لبروفايلي على GitHub، بنفس أسلوب أفضل الـ GitHub profiles، بالأقسام دي بالترتيب:
 
-### 📊 GitHub Stats
+1. Header:
+   - اسمي بخط كبير + جملة وصفية قصيرة تحتيه (Tagline)
+   - Badges أفقية: عدد الـ Followers، زرار "Connect"، رابط الـ Portfolio/LinkedIn (استخدم shields.io badges)
+   - عداد Profile Views (استخدم komarev visitor badge)
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=ahmedmarzook&show_icons=true&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=ahmedmarzook&layout=compact&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
+2. About Me:
+   - فقرة عني (مين أنا، مجالي، خبرتي)
+   - تعليمي (الجامعة + التقدير/GPA)
+   - إيه اللي بشتغل عليه دلوقتي
+   - Open to: (فرص التدريب/الوظائف اللي مهتم بيها)
 
-### 📈 Contribution Graph
+3. Tech Stack (مقسمة لمجموعات مع أيقونات badges لكل تكنولوجيا):
+   - Frontend
+   - Backend & Databases
+   - Cloud, DevOps & Tooling
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=ahmedmarzook&bg_color=00000000&color=2f81f7&line=2f81f7&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
+4. جدول AI/ML Expertise (لو مناسب لمجالي) بأعمدة: Domain | Proficiency | Details
+   (لو مش مجالي، استبدلها بجدول Skills عام بنفس الشكل)
 
-### 💭 Dev Quote
+5. Featured Projects:
+   - قائمة بأهم 3-4 مشاريع، كل مشروع بعنوان + سطر وصف + رابط الريبو
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
+6. Coding Profiles:
+   - badges لحساباتي على LeetCode, Codeforces, GeeksforGeeks, HackerRank (اللي موجود منهم)
 
----
-<p align="center"><i>⭐️ From <a href="https://github.com/ahmedmarzook">ahmedmarzook</a></i></p>
+7. GitHub Analytics:
+   - GitHub Stats Card (github-readme-stats)
+   - Streak Stats Card (github-readme-streak-stats)
+   - Most Used Languages chart
+
+8. GitHub Trophies (github-profile-trophy)
+
+9. Contribution Activity:
+   - Contribution Graph
+   - Snake animation (platane/snk) لو ينفع
+
+اكتبلي الكود بصيغة Markdown كامل وجاهز للنسخ في ملف README.md، مستخدم Shields.io badges وروابط الـ GitHub stats APIs المفتوحة (زي github-readme-stats.vercel.app)، مع محاذاة كل حاجة center لو مناسب، واستبدل username بيوزرنيم الجيت هاب بتاعي: [اكتب اليوزرنيم هنا]
+
+معلوماتي:
+- الاسم: [...]
+- التخصص/الوظيفة: [...]
+- الجامعة والـ GPA: [...]
+- اللغات/التقنيات اللي بستخدمها: [...]
+- المشاريع (اسم + وصف + رابط): [...]
+- حسابات الكودينج (لينكات): [...]
+- LinkedIn/Portfolio: [...]
