@@ -12,7 +12,7 @@ I'm an ERP Developer focused on building and maintaining reliable, scalable busi
 🧩 Comfortable across the full stack — from data layer to UI
 ⚙️ Product-engineering mindset: I build for the people who actually use the system
 🌱 Open to: ERP Development roles · Backend Engineering roles · Software Engineering Internships
-</td> <td width="40%" align="center" valign="middle"> <img src="https://img.icons8.com/fluency/240/database.png" width="65%"/> </td> </tr> </table>
+</td> <td width="40%" align="center" valign="middle"> <a href="https://your-portfolio-link.com"> <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/> </a> </td> </tr> </table>
 
 ---
 
