@@ -8,9 +8,13 @@
 I am an ERP Developer dedicated to designing, building, and maintaining reliable, scalable business systems.<br/> My responsibilities encompass backend architecture, data modeling, and the interfaces that ERP users rely on daily, guided by an engineering approach centered on correctness, maintainability, and measurable business impact.
 
 🏢 Solid foundation in software engineering principles, applied to enterprise-grade systems
+
 🧩 Proficient across the full development lifecycle — from the data layer through to the user interface
+
 ⚙️ A product-oriented engineering approach, prioritizing the needs of the end user
+
 🌱 Open to: ERP Development roles · Backend Engineering roles · Software Engineering Internships
+
 <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/> </p>
 
 ---
