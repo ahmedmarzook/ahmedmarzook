@@ -1,48 +1,107 @@
-اعملي ملف README.md احترافي لبروفايلي على GitHub، بنفس أسلوب أفضل الـ GitHub profiles، بالأقسام دي بالترتيب:
+<div align="center">
 
-1. Header:
-   - اسمي بخط كبير + جملة وصفية قصيرة تحتيه (Tagline)
-   - Badges أفقية: عدد الـ Followers، زرار "Connect"، رابط الـ Portfolio/LinkedIn (استخدم shields.io badges)
-   - عداد Profile Views (استخدم komarev visitor badge)
+# Hi, I'm Ahmed Marzook 👋
 
-2. About Me:
-   - فقرة عني (مين أنا، مجالي، خبرتي)
-   - تعليمي (الجامعة + التقدير/GPA)
-   - إيه اللي بشتغل عليه دلوقتي
-   - Open to: (فرص التدريب/الوظائف اللي مهتم بيها)
+### ERP Developer | Building Business Solutions with Python, Java & Web Technologies
 
-3. Tech Stack (مقسمة لمجموعات مع أيقونات badges لكل تكنولوجيا):
-   - Frontend
-   - Backend & Databases
-   - Cloud, DevOps & Tooling
+<br/>
 
-4. جدول AI/ML Expertise (لو مناسب لمجالي) بأعمدة: Domain | Proficiency | Details
-   (لو مش مجالي، استبدلها بجدول Skills عام بنفس الشكل)
+[![GitHub followers](https://img.shields.io/github/followers/ahmedmarzook?label=Followers&style=for-the-badge&color=blue)](https://github.com/ahmedmarzook?tab=followers)
+[![Connect](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-here)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link-here.com)
 
-5. Featured Projects:
-   - قائمة بأهم 3-4 مشاريع، كل مشروع بعنوان + سطر وصف + رابط الريبو
+![Profile Views](https://komarev.com/ghpvc/?username=ahmedmarzook&label=Profile%20Views&color=blueviolet&style=for-the-badge)
 
-6. Coding Profiles:
-   - badges لحساباتي على LeetCode, Codeforces, GeeksforGeeks, HackerRank (اللي موجود منهم)
+</div>
 
-7. GitHub Analytics:
-   - GitHub Stats Card (github-readme-stats)
-   - Streak Stats Card (github-readme-streak-stats)
-   - Most Used Languages chart
+---
 
-8. GitHub Trophies (github-profile-trophy)
+## 👨‍💻 About Me
 
-9. Contribution Activity:
-   - Contribution Graph
-   - Snake animation (platane/snk) لو ينفع
+I'm an **ERP Developer** who builds, customizes, and maintains ERP systems and business applications. I work across the full stack — from backend logic and data models to the interfaces users interact with daily — focusing on solutions that fit real business workflows.
 
-اكتبلي الكود بصيغة Markdown كامل وجاهز للنسخ في ملف README.md، مستخدم Shields.io badges وروابط الـ GitHub stats APIs المفتوحة (زي github-readme-stats.vercel.app)، مع محاذاة كل حاجة center لو مناسب، واستبدل username بيوزرنيم الجيت هاب بتاعي: [اكتب اليوزرنيم هنا]
+🎓 **Education:** *Your University Name Here* — *(GPA/Grade here)*
 
-معلوماتي:
-- الاسم: [...]
-- التخصص/الوظيفة: [...]
-- الجامعة والـ GPA: [...]
-- اللغات/التقنيات اللي بستخدمها: [...]
-- المشاريع (اسم + وصف + رابط): [...]
-- حسابات الكودينج (لينكات): [...]
-- LinkedIn/Portfolio: [...]
+🔭 **Currently working on:** ERP modules and internal business tools
+
+🌱 **Open to:** ERP Development roles · Software Engineering Internships · Backend Developer roles
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend & Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Link |
+|---|---|---|
+| **FOX_LMS** | Learning Management System built with Python | [Repo](https://github.com/ahmedmarzook/FOX_LMS) |
+| **birthday** | Web project built with HTML | [Repo](https://github.com/ahmedmarzook/birthday) |
+| **ss** | Web project built with HTML | [Repo](https://github.com/ahmedmarzook/ss) |
+
+> ✏️ *Edit the descriptions above with a real one-line summary of what each project actually does.*
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedmarzook&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://streak-stats.demolab.com?user=ahmedmarzook&theme=radical" alt="GitHub Streak" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmarzook&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ahmedmarzook&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedmarzook&theme=react-dark" alt="Contribution Graph"/>
+
+<img src="https://raw.githubusercontent.com/ahmedmarzook/ahmedmarzook/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+
+</div>
+
+---
+
+<div align="center">
+
+💬 *Thanks for visiting my profile — feel free to connect!*
+
+</div>
